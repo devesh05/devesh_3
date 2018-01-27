@@ -2,7 +2,7 @@
  
 void main()
 {   
-    int i,a[10],max,n;
+    int i,a[100],max,n;
    printf("enter the size of array\n");
     scanf("%d",&n);
    printf("enter the elements of array\n"); 
